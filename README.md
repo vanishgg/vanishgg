@@ -5,6 +5,7 @@ import VanishWare
 import VanishRaider
 import VanishSpammer
 import VanishAccountNuker
+import VanishVoucher
 ```
 ---------------------------------------------
 # python fanatic
