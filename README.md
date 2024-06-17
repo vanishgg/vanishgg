@@ -24,3 +24,4 @@ import VanishVoucher
 **My tools are completely, Although feel free to dm me on discord --> @.cix2 If you want a custom tool.**
 
 ---------------------------------------------
+[![Discord Presence](https://lanyard.cnrad.dev/api/1177924866213687306)](https://discord.com/users/1177924866213687306)
