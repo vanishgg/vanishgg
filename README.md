@@ -8,6 +8,8 @@ import VanishAccountNuker
 import VanishVoucher
 ```
 ---------------------------------------------
+[![](https://visitcount.itsvg.in/api?id=vanish&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
 # python fanatic
 
 **I like doing random shit in python all my stupid little repos are discord tools i made within a day or 2, (not counting updates), biggest repo --> VanishV2 // Vanish Raider**
