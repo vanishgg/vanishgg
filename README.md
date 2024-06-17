@@ -14,7 +14,7 @@ import VanishVoucher
 ---------------------------------------------
 # Upcoming projects
 
-**Vanish Selfbot - discord self bot**
+**Vanish Selfbot - discord self bot (may not release)**
 
 **VanishWare - Like blank-luna grabber but with ransomware instead of a rat 😈😈**
 
