@@ -3,7 +3,6 @@
 
 ```python
 import VanishRaider
-import VanishSpammer
 import VanishAccountNuker
 import VanishVoucher
 ```
@@ -19,11 +18,9 @@ import VanishVoucher
 
 **Vanish Selfbot - discord self bot (may not release)**
 
-**VanishWare - Like blank-luna grabber but with ransomware instead of a rat 😈😈**
-
 ---------------------------------------------
 # Paid?
-**My tools are completely, Although feel free to dm me on discord --> @.cix2 If you want a custom tool.**
+**My tools are completely, Although feel free to dm me on discord --> @.cix4 If you want a custom tool.**
 
 ---------------------------------------------
 [![Discord Presence](https://lanyard.cnrad.dev/api/1177924866213687306)](https://discord.com/users/1177924866213687306)
