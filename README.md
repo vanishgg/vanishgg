@@ -10,7 +10,7 @@ import VanishFlooder
                                                          **Vanish**
 [![](https://visitcount.itsvg.in/api?id=vanish&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
-[![Vanish's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Vanish's Github Stats](https://github-readme-stats.vercel.app/api?username=vanishgg)](https://github.com/anuraghazra/github-readme-stats)
 
 # python fanatic
 
