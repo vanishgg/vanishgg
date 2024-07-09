@@ -1,3 +1,5 @@
+# Vanish
+
 ```python
 import VanishRaider
 import VanishFlooder
