@@ -1,13 +1,16 @@
-![hippo](https://i.ibb.co/r3BYYSL/a-bb5731231b11d3731fedbec074d1dc5a.gif)
-### Welcome Back Vanish.
-
 ```python
 import VanishRaider
 import VanishAccountNuker
 import VanishVoucher
+import VanishFlooder
 ```
+
+                              
 ---------------------------------------------
+                                                         **Vanish**
 [![](https://visitcount.itsvg.in/api?id=vanish&label=Profile%20Views&color=11&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+[![Vanish's Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 # python fanatic
 
