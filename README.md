@@ -11,7 +11,7 @@ import VanishVoucher
 
 # python fanatic
 
-**I like doing random shit in python all my stupid little repos are discord tools i made within a day or 2, (not counting updates), biggest repo --> VanishV2 // Vanish Raider**
+**I like doing random shit in python all my stupid little repos are discord tools i made within a day or 2, (not counting updates), biggest repo --> Vanish Raider**
 
 ---------------------------------------------
 # Upcoming projects
@@ -23,4 +23,4 @@ import VanishVoucher
 **My tools are completely, Although feel free to dm me on discord --> @.cix4 If you want a custom tool.**
 
 ---------------------------------------------
-[![Discord Presence](https://lanyard.cnrad.dev/api/1177924866213687306)](https://discord.com/users/1177924866213687306)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1246814091499278357?bg=7b00ff)](https://discord.com/users/1246814091499278357)
