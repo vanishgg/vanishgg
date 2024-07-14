@@ -23,7 +23,9 @@ import VanisNuker
 
 ---------------------------------------------
 # Paid?
-**My tools are completely, Although feel free to dm me on discord --> @.cix4 If you want a custom tool.**
+**My tools are completely, Although feel free to dm me on discord --> @virtual.cmd If you want a custom tool.**
+**<https://vanishnet.netlify.app/profile>** - check this for my current username. and if im termed on discord
+
 
 
 ---------------------------------------------
