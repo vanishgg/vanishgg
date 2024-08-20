@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/vanishgg?tab=followers"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=social"></a>
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/vanishgg"><img src="https://github-readme-stats.vercel.app/api/?username=vanishgg&amp;title_color=5c64f4&amp;text_color=7b00ff&amp;show_icons=true&amp;bg_color=00000000&amp;hide_border=true&amp;icon_color=5c64f4&amp;hide_title=true&amp;count_private=true"></a>
+  <a href="https://github.com/vanishgg"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
 </p>
 
 <p align="center">
