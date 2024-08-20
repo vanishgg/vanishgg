@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+Virtual;I'm+a+Python+Developer;I+Made+Tools+Such+As:;Vanish+Raider;Vanish+Flooder;vanish+selfbot" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Hey+I'm+Virtual;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Vanish+Raider;Vanish+Flooder;vanish+selfbot" alt="Typing SVG">
 </p>
 
 ---
