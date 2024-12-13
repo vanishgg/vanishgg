@@ -43,11 +43,9 @@
   <a href="https://youtube.com/@kqfo"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=flat&logo=youtube&logoColor=white"></a>
 </p>
 
-</p>
-  <a href="https://github.com/vanishgg"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
-</p>
 
 <p align="center">
   <br>
   <strong>"Code is like humor. When you have to explain it, it’s bad. - Cory House"</strong>
+  <a href="https://github.com/vanishgg"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
 </p>
