@@ -1,7 +1,7 @@
 <h1 align="center">What's up..</h1>
 
 <p align="center">
-  <a href="https://github.com/vanishgg?tab=followers"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=social&color=8c52ff"></a>
+  <a href="https://github.com/vanishgg?tab=followers"><img src="https://img.shields.io/github/followers/vanishgg?label=Follow&style=flat&color=8c52ff"></a>
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
   <a href="https://github.com/vanishgg"><img src="https://visitcount.itsvg.in/api?id=vanish&amp;label=Profile%20Views&amp;color=11&amp;icon=6&amp;pretty=true"></a>
 </p>
