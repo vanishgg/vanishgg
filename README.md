@@ -19,6 +19,12 @@
 ---
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css,tailwind,rust" />
+</p>
+
+---
+
+<p align="center">
   <strong>Owner of <a href="https://Vanishnet.netlify.app/" target="_blank">Vanish Tools</a></strong>
 </p>
 
